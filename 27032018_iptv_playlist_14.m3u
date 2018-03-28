@@ -1,0 +1,189 @@
+#EXTM3U https://hdbox.ws/
+#EXTINF:-1,Первый Канал
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/88.ts
+#EXTINF:-1,Россия 1
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/3.ts
+#EXTINF:-1,Россия 24
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/5.ts
+#EXTINF:-1,НТВ
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/6.ts
+#EXTINF:-1,Пятый Канал
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/7.ts
+#EXTINF:-1,ТВ3
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/8.ts
+#EXTINF:-1,Дождь
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/9.ts
+#EXTINF:-1,ТВ Центр
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/10.ts
+#EXTINF:-1,МИР
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/11.ts
+#EXTINF:-1,РЕН ТВ
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/12.ts
+#EXTINF:-1,СТС
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/13.ts
+#EXTINF:-1,СТС Love
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/21.ts
+#EXTINF:-1,Пятница
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/14.ts
+#EXTINF:-1,Звезда
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/15.ts
+#EXTINF:-1,Домашний
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/16.ts
+#EXTINF:-1,ТНТ
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/17.ts
+#EXTINF:-1,ТНТ4
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/18.ts
+#EXTINF:-1,Че
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/19.ts
+#EXTINF:-1,РБК
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/20.ts
+#EXTINF:-1,ViP Premiere
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/22.ts
+#EXTINF:-1,VIP Megahit
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/23.ts
+#EXTINF:-1,VIP Comedy
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/24.ts
+#EXTINF:-1,MGM HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/26.ts
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/94.ts
+#EXTINF:-1,ЕВРОКИНО
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/98.ts
+#EXTINF:-1,Остросюжетное HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/93.ts
+#EXTINF:-1,Кинопремьера HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/25.ts
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/27.ts
+#EXTINF:-1,BOLLYWOOD HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/28.ts
+#EXTINF:-1,Кинопоказ HD-1
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/90.ts
+#EXTINF:-1,Кинопоказ HD-2
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/91.ts
+#EXTINF:-1,Animal Planet
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/34.ts
+#EXTINF:-1,History HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/35.ts
+#EXTINF:-1,Viasat Nature/History HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/96.ts
+#EXTINF:-1,Viasat Explore
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/33.ts
+#EXTINF:-1,Viasat History
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/32.ts
+#EXTINF:-1,Viasat Nature
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/31.ts
+#EXTINF:-1,National Geographic
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/29.ts
+#EXTINF:-1,Discovery Сhannel
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/30.ts
+#EXTINF:-1,Nickelodeon HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/37.ts
+#EXTINF:-1,Мультик HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/39.ts
+#EXTINF:-1,Тлум HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/38.ts
+#EXTINF:-1,Cartoon Network
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/36.ts
+#EXTINF:-1,Disney
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/97.ts
+#EXTINF:-1,Карусель
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/95.ts
+#EXTINF:-1,Матч!
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/40.ts
+#EXTINF:-1,Матч! Боец
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/47.ts
+#EXTINF:-1,Матч! Арена
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/41.ts
+#EXTINF:-1,Матч! Футбол 1
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/42.ts
+#EXTINF:-1,Матч! Футбол 2
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/43.ts
+#EXTINF:-1,Матч! Футбол 3
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/44.ts
+#EXTINF:-1,Наш футбол
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/45.ts
+#EXTINF:-1,КХЛ
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/46.ts
+#EXTINF:-1,HIT TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/49.ts
+#EXTINF:-1,NRJ Hits
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/48.ts
+#EXTINF:-1,RU TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/50.ts
+#EXTINF:-1,Russian Music Box
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/51.ts
+#EXTINF:-1,H1 Satellite
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/52.ts
+#EXTINF:-1,H1
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/53.ts
+#EXTINF:-1,H2
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/54.ts
+#EXTINF:-1,H3
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/55.ts
+#EXTINF:-1,Shant TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/56.ts
+#EXTINF:-1,Shant TV Premium
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/57.ts
+#EXTINF:-1,Shant Music
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/80.ts
+#EXTINF:-1,Shant Serial HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/99.ts
+#EXTINF:-1,ATV HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/58.ts
+#EXTINF:-1,Armenia TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/59.ts
+#EXTINF:-1,Armenia TV HD
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/60.ts
+#EXTINF:-1,AR
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/61.ts
+#EXTINF:-1,USArmenia
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/62.ts
+#EXTINF:-1,Arm NEWS
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/63.ts
+#EXTINF:-1,Ararat
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/64.ts
+#EXTINF:-1,21 TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/65.ts
+#EXTINF:-1,Shogokat
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/66.ts
+#EXTINF:-1,Erkir Media
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/67.ts
+#EXTINF:-1,TBN Armenia
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/68.ts
+#EXTINF:-1,Kentron
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/71.ts
+#EXTINF:-1,Luys
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/81.ts
+#EXTINF:-1,Siro Nush
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/86.ts
+#EXTINF:-1,Toot
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/69.ts
+#EXTINF:-1,MTV.AM
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/70.ts
+#EXTINF:-1,ArmMusic
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/72.ts
+#EXTINF:-1,Kinoman
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/75.ts
+#EXTINF:-1,Filmzon
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/76.ts
+#EXTINF:-1,Hahalik
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/78.ts
+#EXTINF:-1,Hay TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/77.ts
+#EXTINF:-1,Tava TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/79.ts
+#EXTINF:-1,PanArmenian
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/73.ts
+#EXTINF:-1,ARTN
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/83.ts
+#EXTINF:-1,AABC TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/85.ts
+#EXTINF:-1,HighVision
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/82.ts
+#EXTINF:-1,Fortuna TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/84.ts
+#EXTINF:-1,Ezidhan TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/89.ts
+#EXTINF:-1,Lalish TV
+http://92.223.103.69:25461/live/live_channel/rus-arm-ezdi/92.ts
